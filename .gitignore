@@ -19,6 +19,7 @@ _ext
 *.dll
 *.egg-info/
 build/
+devel/
 dist/
 wheels/
 
@@ -42,6 +43,7 @@ model_ts*.txt
 # editor settings
 .idea
 .vscode
+.catkin_workspace
 _darcs
 
 # project dirs
